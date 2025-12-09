@@ -1,0 +1,51 @@
+vendor_key,vendor_name,vertical,address,city,state,zip
+1,Vodafone UK Wholesale,Connectivity Partner,The Connection,Newbury,Berkshire,RG14 2FN
+2,BT Wholesale,Connectivity Partner,81 Newgate Street,London,London,EC1A 7AJ
+3,TalkTalk Wholesale Services,Connectivity Partner,11 Evesham Street,Manchester,Greater Manchester,M15 4JH
+4,Virgin Media O2 Business,Platform Partner,500 Brook Drive,Reading,Berkshire,RG2 6UU
+5,Amazon Web Services UK,Cloud Provider,1 Principal Place,London,London,EC2A 2FA
+6,Microsoft Azure UK,Cloud Provider,2 Kingdom Street,London,London,W2 6BD
+7,Google Cloud UK,Cloud Provider,6 Pancras Square,London,London,N1C 4AG
+8,Cisco UK,Network Equipment,10 Finsbury Square,London,London,EC2A 1AF
+9,Juniper Networks UK,Network Equipment,Building 2 Guildhall,London,London,EC2V 5AE
+10,Fortinet UK,Security Partner,120 Aldersgate Street,London,London,EC1A 4JQ
+11,Palo Alto Networks UK,Security Partner,140 Leadenhall Street,London,London,EC3V 4QT
+12,CrowdStrike UK,Security Partner,180 Borough High Street,London,London,SE1 1LB
+13,Arista Networks UK,Network Equipment,CityPoint 1 Ropemaker St,London,London,EC2Y 9HT
+14,Dell Technologies UK,Hardware Partner,1 Triton Square,London,London,NW1 3DX
+15,HP UK,Hardware Partner,Arena 1,Bracknell,Berkshire,RG12 1HN
+16,Lenovo UK,Hardware Partner,25 Prescot Street,London,London,E1 8BB
+17,HPE UK,Hardware Partner,3 Lochside View,Edinburgh,Midlothian,EH12 9DH
+18,Equinix London,Data Centre Partner,8 Buckingham Ave,Slough,Berkshire,SL1 4PF
+19,Digital Realty Slough,Data Centre Partner,630 Ajax Ave,Slough,Berkshire,SL1 4DG
+20,Neos Networks,Connectivity Partner,2nd Floor,Reading,Berkshire,RG1 1LX
+21,CityFibre Construction Alliance,Backhaul Partner,One Friargate,Coventry,West Midlands,CV1 2GN
+22,Sky Business Wholesale,Wholesale Partner,Grant Way,Isleworth,London,TW7 5QD
+23,Vodafone Carrier Services UK,Backhaul Partner,The Connection,Newbury,Berkshire,RG14 2FN
+24,Three UK,Mobile Partner,450 Longwater Ave,Reading,Berkshire,RG2 6GF
+25,Ericsson UK,Mobile Vendor,Telecom Tower,London,London,EC1Y 1AA
+26,Nokia UK,Mobile Vendor,Queensberry House,London,London,SW1P 3AL
+27,Huawei UK,Mobile Vendor,Centre House,Reading,Berkshire,RG2 6UF
+28,Genesys UK,CX Platform,3rd Floor,London,London,EC2M 2AF
+29,Five9 UK,CX Platform,1 Poultry,London,London,EC2R 8EJ
+30,Talkdesk UK,CX Platform,2 Leman Street,London,London,E1 8FA
+31,Salesforce UK,CRM Partner,110 Bishopsgate,London,London,EC2N 4AY
+32,HubSpot UK,CRM Partner,1 Bedford Street,London,London,WC2E 9HG
+33,Zendesk UK,CX Platform,9th Floor,London,London,EC2A 4NG
+34,ServiceNow UK,ITSM Partner,1 Kingdom Street,London,London,W2 6BD
+35,Twilio UK,CPaaS Partner,3 Waterhouse Square,London,London,EC1N 2SW
+36,Bandwidth UK,Voice Provider,20 Primrose St,London,London,EC2A 2EW
+37,Pexip UK,Video Partner,33 Cavendish Square,London,London,W1G 0PW
+38,Zoom UK,Video Partner,The Hickman 2 Whitechapel Rd,London,London,E1 1EW
+39,Avaya UK,Contact Centre,3 More London Riverside,London,London,SE1 2RE
+40,NICE UK,Contact Centre,160 Queen Victoria St,London,London,EC4V 4BF
+41,RingCentral UK,UCaaS Partner,125 Old Broad Street,London,London,EC2N 1AR
+42,8x8 UK,UCaaS Partner,6 New Street Square,London,London,EC4A 3BF
+43,Vonage UK,UCaaS Partner,20 Old Bailey,London,London,EC4M 7AN
+44,Dialpad UK,UCaaS Partner,2 Eastbourne Terrace,London,London,W2 6LG
+45,GoTo UK,UCaaS Partner,The White Building,Reading,Berkshire,RG1 3BU
+46,Mitel UK,UCaaS Partner,6 Staples Close,Reading,Berkshire,RG1 4PR
+47,CityFibre Voice Partner,Voice Partner,One Friargate,Coventry,West Midlands,CV1 2GN
+48,Harmonic UK,Video/TV Partner,25 Copthall Ave,London,London,EC2R 7BP
+49,Synamedia UK,Video/TV Partner,2 Kingdom Street,London,London,W2 6BD
+50,Sky Wholesale UK,Wholesale Partner,Grant Way,Isleworth,London,TW7 5QD
